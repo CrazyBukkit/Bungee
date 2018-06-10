@@ -1,0 +1,4 @@
+name: NaturBungee
+author: CrazyBukkit
+version: 1.0
+main: net.crazybukkit.bungee.Bungee
